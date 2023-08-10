@@ -3,7 +3,8 @@ import React from 'react';
 const RightColumn = () => {
     return (
         <div>
-            <h1>RightColumn</h1>
+            <p>COl-2 start</p>
+            <p>col-2 end</p>
         </div>
     );
 };
